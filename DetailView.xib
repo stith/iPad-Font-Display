@@ -12,7 +12,7 @@
 		</object>
 		<object class="NSMutableArray" key="IBDocument.EditedObjectIDs">
 			<bool key="EncodedWithXMLCoder">YES</bool>
-			<integer value="70"/>
+			<integer value="8"/>
 		</object>
 		<object class="NSArray" key="IBDocument.PluginDependencies">
 			<bool key="EncodedWithXMLCoder">YES</bool>
@@ -59,7 +59,25 @@
 						<bool key="IBUICanCancelContentTouches">NO</bool>
 						<bool key="IBUIBouncesZoom">NO</bool>
 						<bool key="IBUIEditable">NO</bool>
-						<string key="IBUIText">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum condimentum, sapien eget rhoncus posuere, ipsum turpis ultricies nunc, sed interdum ligula nulla nec ligula. Sed faucibus congue vulputate. Morbi consectetur velit a diam consectetur eget dignissim urna dignissim. Phasellus facilisis diam vitae libero convallis euismod. Mauris euismod dui vel ante vestibulum dapibus rhoncus justo varius. Phasellus semper posuere tincidunt. Integer iaculis, magna quis adipiscing aliquam, est mauris volutpat leo, ut vulputate nunc nisi eu enim. Pellentesque odio massa, fringilla vel bibendum in, dapibus eget felis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus vestibulum euismod risus, non fermentum sapien fringilla ac. Proin quis aliquam metus. Cras metus leo, aliquam in iaculis at, adipiscing ac augue. Suspendisse blandit commodo nisi eget interdum. Aenean imperdiet augue ut est tempor eu viverra sem vestibulum. Pellentesque molestie, neque nec ultricies facilisis, neque nisi sollicitudin quam, nec suscipit lacus turpis sit amet leo. Fusce id est augue, ac pellentesque odio. Vestibulum eleifend erat eget enim varius rhoncus. Phasellus vehicula diam non ipsum blandit quis faucibus dolor elementum. Duis vitae nunc magna. Donec vel dolor nunc, ut consequat elit.</string>
+						<string type="base64-UTF8" key="IBUIText">RE9PTTogUmVwZXJjdXNzaW9ucyBvZiBFdmlsLCBieSBQZXRlciBDaGltYWVyYQoKSm9obiBTdGFsdmVy
+biB3YWl0ZWQuIFRoZSBsaWdodHMgYWJvdmUgaGltIGJsaW5rZWQgYW5kIHNwYXJrZWQgb3V0IG9mIHRo
+ZSBhaXIuIFRoZXJlIHdlcmUgZGVtb25zIGluIHRoZSBiYXNlLiBIZSBkaWRuJ3Qgc2VlIHRoZW0sIGJ1
+dCBoYWQgZXhwZWN0ZWQgdGhlbSBub3cgZm9yIHllYXJzLiBIaXMgd2FybmluZ3MgdG8gQ2VybmVsIEpv
+c29uIHdlcmUgbm90IGxpc3RlbmVuZCB0byBhbmQgbm93IGl0IHdhcyB0b28gbGF0ZS4gRmFyIHRvbyBs
+YXRlIGZvciBub3csIGFueXdheS4KSm9obiB3YXMgYSBzcGFjZSBtYXJpbmUgZm9yIGZvdXJ0ZWVuIHll
+YXJzLiBXaGVuIGhlIHdhcyB5b3VuZyBoZSB3YXRjaGVkIHRoZSBzcGFjZXNoaXBzIGFuZCBoZSBzYWlk
+IHRvIGRhZCAiSSB3YW50IHRvIGJlIG9uIHRoZSBzaGlwcyBkYWRkeS4iCkRhZCBzYWlkICJObyEgWW91
+IHdpbGwgQkUgS0lMTCBCWSBERU1PTlMiClRoZXJlIHdhcyBhIHRpbWUgd2hlbiBoZSBiZWxpZXZlZCBo
+aW0uIFRoZW4gYXMgaGUgZ290IG9sZGVyZWQgaGUgc3RvcHBlZC4gQnV0IG5vdyBpbiB0aGUgc3BhY2Ug
+c3RhdGlvbiBiYXNlIG9mIHRoZSBVQUMgaGUga25ldyB0aGVyZSB3ZXJlIGRlbW9ucy4KIlRoaXMgaXMg
+Sm9zb24iIHRoZSByYWRpbyBjcmFja2VyZWQuICJZb3UgbXVzdCBmaWdodCB0aGUgZGVtb25zISIKU28g
+Sm9obiBnb3R0ZWQgaGlzIHBhbHNtYSByaWZsZSBhbmQgYmxldyB1cCB0aGUgd2FsbC4KIkhFIEdPSU5H
+IFRPIEtJTEwgVVMiIHNhaWQgdGhlIGRlbW9ucwoiSSB3aWxsIHNob290IGF0IGhpbSIgc2FpZCB0aGUg
+Y3liZXJkZW1vbiBhbmQgaGUgZmlyZWQgdGhlIHJvY2tldCBtaXNzaWxlcy4gSm9obiBwbGFzbWFlZCBh
+dCBoaW0gYW5kIHRyaWVkIHRvIGJsZXcgaGltIHVwLiBCdXQgdGhlbiB0aGUgY2VpbGluZyBmZWxsIGFu
+ZCB0aGV5IHdlcmUgdHJhcHBlZCBhbmQgbm90IGFibGUgdG8ga2lsbC4KIk5vISBJIG11c3Qga2lsbCB0
+aGUgZGVtb25zIiBoZSBzaG91dGVkClRoZSByYWRpbyBzYWlkICJObywgSm9obi4gWW91IGFyZSB0aGUg
+ZGVtb25zIgpBbmQgdGhlbiBKb2huIHdhcyBhIHpvbWJpZS4</string>
 						<object class="IBUITextInputTraits" key="IBUITextInputTraits">
 							<int key="IBUIAutocapitalizationType">2</int>
 							<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
