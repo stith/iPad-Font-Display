@@ -67,11 +67,19 @@
 #pragma mark Actions
 -(IBAction)increaseFontSize:(id)sender {
 	fontSize++;
+	if (!detailString) {
+		detailString = [textView.font.fontName description];
+		[detailString retain];
+	}
 	textView.font = [UIFont fontWithName:detailString size:fontSize];
 	navigationBar.topItem.title = [NSString stringWithFormat: @"%@ (%ipt)",detailString,fontSize];
 }
 -(IBAction)decreaseFontSize:(id)sender {
 	fontSize--;
+	if (!detailString) {
+		detailString = [textView.font.fontName description];
+		[detailString retain];
+	}
 	textView.font = [UIFont fontWithName:detailString size:fontSize];
 	navigationBar.topItem.title = [NSString stringWithFormat: @"%@ (%ipt)",detailString,fontSize];
 }
